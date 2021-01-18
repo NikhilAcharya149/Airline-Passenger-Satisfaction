@@ -8,10 +8,14 @@ The goal of this analysis is to understand:
 **Features** -
 
 Gender: Gender of the passengers (Female, Male)
-Customer Type: The customer type (Loyal customer, disloyal customer)
+\n Customer Type: The customer type (Loyal customer, disloyal customer)
+
 Age: The actual age of the passengers
+
 Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+
 Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)
+
 Flight distance: The flight distance of this journey
 Inflight wifi service: Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
 Departure/Arrival time convenient: Satisfaction level of Departure/Arrival time convenient
