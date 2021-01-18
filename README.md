@@ -2,8 +2,8 @@ The [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/
 
 **Problem Statement**:
 The goal of this analysis is to understand:
-* What factors are highly correlated to a satisfied or dissatisfied passenger and to identify factors affecting satisfaction of airline customers to improve the customer service * and business operations of the airline comapanies
-* Predicting passenger satisfaction
+* What factors are highly correlated to a satisfied or dissatisfied passenger and to identify factors affecting satisfaction of airline customers to improve the customer service and business operations of the airline comapanies
+* Predicting passenger satisfaction using ML models
 
 **Features**:
 
