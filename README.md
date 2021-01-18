@@ -1,11 +1,11 @@
 The [Airline Passenger Satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction) contains an airline passenger satisfaction survey. 
 
-***Problem Statement**:
+**Problem Statement**:
 The goal of this analysis is to understand:
 * What factors are highly correlated to a satisfied or dissatisfied passenger and to identify factors affecting satisfaction of airline customers to improve the customer service * and business operations of the airline comapanies
 * Predicting passenger satisfaction
 
-***Features**:
+**Features**:
 
 * Gender: Gender of the passengers (Female, Male)
 * Customer Type: The customer type (Loyal customer, disloyal customer)
